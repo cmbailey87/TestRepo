@@ -3,7 +3,7 @@ testing more changes from footbar to see what i can break again...
 this is a new project
 welp we are at this again
 
-this is added to master, after diting foobar2 adding more info to the read me file  -  added from foobar
+this is added to master, after editing foobar2 adding more info to the read me file  -  added from foobar
 
 
 information has been updated, for merge testing
